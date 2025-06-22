@@ -63,6 +63,7 @@ This project:
 
 ##  Folder Structure
 invoice_project/
+
 ├── invoices/ # Where you keep your PDFs
 ├── extracted_data.xlsx # Excel file with results
 ├── main.py # Main program
